@@ -1,2 +1,4 @@
-# Calculadora-proyecto
-Uso de prompts para la creación de una calculadora para saber la viabilidad de una mina a cielo abierto
+# Untitled
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Roger-Estrada-Ortega/pen/OPLLgXj](https://codepen.io/Roger-Estrada-Ortega/pen/OPLLgXj).
+
